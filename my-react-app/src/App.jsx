@@ -5,8 +5,7 @@ import './App.css'
 
 function App() {
   return (
-    <div className="bg-blue-500 text-white text-3xl font-bold p-10 text-center">
-      Jayanta Sarkar is gay
+    <div>
     </div>
   );
 }
